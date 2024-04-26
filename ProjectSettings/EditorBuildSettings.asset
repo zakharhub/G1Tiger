@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: 44b12fdd735f4be41873e555f8895bf4
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 1cad2208b30d42f4aa38dcc316d03d9c
+  - enabled: 1
+    path: Assets/Scenes/1 lvl.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/rain 1 lvl.unity
+    guid: 8c182ce411d75554f8a9ba8b67521d34
+  - enabled: 1
+    path: Assets/Scenes/2 lvl.unity
+    guid: 2c78d5c3d8760fb4193e21c43a9f7bf7
+  - enabled: 1
+    path: Assets/Scenes/rain 2 lvl.unity
+    guid: 79d99b5f700936a4d921ce3d8d27d0b6
+  - enabled: 1
+    path: Assets/Scenes/3 lvl.unity
+    guid: b56867fa10e6dc04f88f72fcb23b4b82
+  - enabled: 1
+    path: Assets/Scenes/rain 3 lvl.unity
+    guid: adc993b777249944f8c6a008b1afa5d2
+  - enabled: 1
+    path: Assets/Scenes/4 lvl.unity
+    guid: 31ab08f84fdd6fe4291480593f83d461
+  - enabled: 1
+    path: Assets/Scenes/rain 4 lvl.unity
+    guid: 257bb68709850f0499bb3db096f4fcec
+  - enabled: 1
+    path: Assets/Scenes/5 lvl.unity
+    guid: f9a82439d977f9246b3f4df46a41563b
+  - enabled: 1
+    path: Assets/Scenes/rain 5 lvl.unity
+    guid: b16a6f303013ac04e9a8c24f1607efa2
+  - enabled: 1
+    path: Assets/Scenes/6 lvl.unity
+    guid: e08696f056a458a4597c8a9496bcca13
+  - enabled: 1
+    path: Assets/Scenes/rain 6 lvl.unity
+    guid: 13acd3d4d6b989340870ff6cae49ba0a
+  - enabled: 1
+    path: Assets/Scenes/7 lvl.unity
+    guid: 781a1f80d1332ae49909a3ee24332cf6
+  - enabled: 1
+    path: Assets/Scenes/rain 7 lvl.unity
+    guid: 818fa02d28454364082e8b8f193af99a
+  - enabled: 1
+    path: Assets/Scenes/8 lvl.unity
+    guid: d22fc749b02b8064fa6124acdb2ca30d
+  - enabled: 1
+    path: Assets/Scenes/rain 8 lvl.unity
+    guid: d94748ebe63bffa45a400a69730b748e
+  - enabled: 1
+    path: Assets/Scenes/9 lvl.unity
+    guid: dcd8ab89af419b6449fac5bf564cc80b
+  - enabled: 1
+    path: Assets/Scenes/rain 9 lvl.unity
+    guid: b60db7180f1c82b4bb6dc41686565bdd
+  - enabled: 1
+    path: Assets/Scenes/10 lvl.unity
+    guid: 389f57deb101d0d409a9dee260bc6839
+  m_configObjects: {}
